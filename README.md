@@ -18,6 +18,7 @@ API Entegrasyonu: SAP / Logo vb. sistemlere uyarlanabilir
 
 
 (Kurulum)
+
 git clone [repo-link]
 cd proje-dizini
 pip install -r requirements.txt
